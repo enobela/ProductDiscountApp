@@ -86,5 +86,10 @@ class MainActivity : AppCompatActivity() {
    }
 
  }
+    private fun  GetProduct(productItem: Int)
+    {
+
+
+    }
 
 }
